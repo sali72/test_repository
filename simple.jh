@@ -1,0 +1,12 @@
+entity Teacher {
+	teacherFirstName String,
+    teacherLastName String,
+    gender Gender,
+    birthDate Date,
+}
+entity Course {
+	courseTitle String,
+    startDate Date,
+    endDate Date,
+}
+
